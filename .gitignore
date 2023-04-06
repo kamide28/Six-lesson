@@ -47,3 +47,6 @@ buildSrc/build
 /integration-tests/build
 /src/asciidoc/build
 spring-test/test-output
+
+# DS_Store
+.DS_Store
